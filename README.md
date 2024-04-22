@@ -1,6 +1,4 @@
 # PhysiCell2024
-Updated PhysiCell files to v1.13.1
-# tissue_elongation
 
 This is an update to the original model used in the pre-print. 
 
