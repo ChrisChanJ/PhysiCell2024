@@ -1,0 +1,11 @@
+Cell Hypothesis Rules
+
+In PSM cells:
+pressure decreases cycle entry
+
+In Ecto cells:
+pressure decreases cycle entry
+
+In NC cells:
+pressure decreases cycle entry
+

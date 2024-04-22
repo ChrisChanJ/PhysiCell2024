@@ -1,0 +1,71 @@
+Signals: 
+=======
+0 : oxygen
+1 : intracellular oxygen
+2 : oxygen gradient
+3 : pressure
+4 : volume
+5 : contact with PSM
+6 : contact with Ecto
+7 : contact with NC
+8 : contact with live cell
+9 : contact with dead cell
+10 : contact with basement membrane
+11 : damage
+12 : dead
+13 : total attack time
+14 : time
+15 : custom:sample
+16 : apoptotic
+17 : necrotic
+
+Behaviors: 
+=========
+0 : oxygen secretion
+1 : oxygen secretion target
+2 : oxygen uptake
+3 : oxygen export
+4 : cycle entry
+5 : exit from cycle phase 1
+6 : exit from cycle phase 2
+7 : exit from cycle phase 3
+8 : exit from cycle phase 4
+9 : exit from cycle phase 5
+10 : apoptosis
+11 : necrosis
+12 : migration speed
+13 : migration bias
+14 : migration persistence time
+15 : chemotactic response to oxygen
+16 : cell-cell adhesion
+17 : cell-cell adhesion elastic constant
+18 : adhesive affinity to PSM
+19 : adhesive affinity to Ecto
+20 : adhesive affinity to NC
+21 : relative maximum adhesion distance
+22 : cell-cell repulsion
+23 : cell-BM adhesion
+24 : cell-BM repulsion
+25 : phagocytose dead cell
+26 : phagocytose PSM
+27 : phagocytose Ecto
+28 : phagocytose NC
+29 : attack PSM
+30 : attack Ecto
+31 : attack NC
+32 : fuse to PSM
+33 : fuse to Ecto
+34 : fuse to NC
+35 : transform to PSM
+36 : transform to Ecto
+37 : transform to NC
+38 : custom:sample
+39 : is_movable
+40 : immunogenicity to PSM
+41 : immunogenicity to Ecto
+42 : immunogenicity to NC
+43 : cell attachment rate
+44 : cell detachment rate
+45 : maximum number of cell attachments
+46 : damage rate
+
