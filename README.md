@@ -34,11 +34,12 @@ Run Simulation
 
 Plot
 
-<img width="500" alt="image" src="https://github.com/ChrisChanJ/PhysiCell2024/assets/82984556/f3ffd882-b798-45ed-86b8-54f1d3ff6419">
+<img width="500" alt="image" src="https://github.com/ChrisChanJ/PhysiCell2024/assets/82984556/78661b69-f1bd-4e09-8bd8-ae6076a67983">
 
 A matlab script has been written to represent direction of movement using color.
 
-<img width="500" alt="image" src="https://github.com/ChrisChanJ/PhysiCell2024/assets/82984556/9efa2484-ae69-4926-91b5-321f41d20398">
+<img width="381" alt="image" src="https://github.com/ChrisChanJ/PhysiCell2024/assets/82984556/a8bedabe-265a-458b-bb10-08b56e310002">
+
 
 Data needed for the script 'colored_cell_movement.m' can be found in the 'output3D' folder after simulation is run. All other required functions can be found in the 'Matlab quiver plots' folder
 
